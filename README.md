@@ -1,4 +1,4 @@
-[![readmebox](https://github.com/user-attachments/assets/5f8d8569-2326-420e-a1ba-0259cdc30653)](https://readmebox.vercel.app/)
+[![readmebox](https://github.com/user-attachments/assets/3e2a0ffb-9d93-461c-87f8-326628ab4e0e)](https://readmebox.vercel.app/)
 
 ## Hi, I'm Abdul Ridho Ramadhan!
 
