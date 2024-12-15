@@ -14,4 +14,4 @@ Feel free to reach out to me via email or connect with me
 
 [![GitHub](https://img.shields.io/badge/AbdulRidhoRamadhan-green?logo=github)](https://github.com/AbdulRidhoRamadhan)
 [![LinkedIn](https://img.shields.io/badge/AbdulRidhoRamadhan-informational?logo=linkedin)](https://www.linkedin.com/in/abdul-ridho-ramadhan-90516623b/)
-[![Email](https://img.shields.io/badge/abdulridhoramadhan.it%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)](abdulridhoramadhan.it@gmail.com)
+![Email](https://img.shields.io/badge/abdulridhoramadhan.it%40gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)
