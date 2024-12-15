@@ -1,4 +1,4 @@
-[![readmebox](https://github.com/AbdulRidhoRamadhan/AbdulRidhoRamadhan/blob/main/assets/readmebox.svg)](https://readmebox.vercel.app/)
+[![readmebox](https://github.com/AbdulRidhoRamadhan/AbdulRidhoRamadhan/blob/main/assets/readmebox.svg)](https://www.readmebox.com/)
 
 ## Hi, I'm Abdul Ridho Ramadhan!
 
